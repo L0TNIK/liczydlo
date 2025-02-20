@@ -1,0 +1,21 @@
+body {
+  font-family: Verdana;
+}
+button {
+  color: white;
+  background-color: rgb(104, 104, 255);
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: rgb(66, 66, 255);
+}
+h1 {
+  size: 200px;
+}
+div {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+}
