@@ -18,4 +18,5 @@ div {
   width: 100%;
   justify-content: center;
   display: flex;
+  background-color: rgb(99, 99, 99);
 }
